@@ -1,7 +1,7 @@
 # habit-tracker-flutter
-A cross-platform Flutter application that helps users build and maintain positive habits through daily tracking, streak monitoring, and progress visualization.
+A cross-platform Flutter application that helps users build and maintain positive habits through daily tracking and progress visualization.
 
-Built using **Flutter** and **Firebase**, the application provides real-time synchronization, user authentication, and an intuitive interface for tracking productivity and consistency.
+Built using **Flutter** and **Firebase**, the application provides real-time synchronization, user authentication and an intuitive interface for tracking productivity and consistency.
 
 ---
 
