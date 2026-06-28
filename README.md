@@ -1,33 +1,16 @@
-# habit-tracker-flutter
-A cross-platform Flutter application that helps users build and maintain positive habits through daily tracking and progress visualization.
+# habit_tracker_app
 
-Built using **Flutter** and **Firebase**, the application provides real-time synchronization, user authentication and an intuitive interface for tracking productivity and consistency.
+A new Flutter project.
 
----
+## Getting Started
 
-## Features
+This project is a starting point for a Flutter application.
 
-User Authentication using Firebase
+A few resources to get you started if this is your first Flutter project:
 
-Create, edit, and delete habits
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-Daily habit tracking
-
-Progress visualization with charts
-
-Real-time cloud synchronization
-
-Cross-platform support (Android & iOS)
-
----
-
-## Tech Stack
-
-| Technology | Purpose |
-|------------|----------|
-| Flutter | Mobile app development |
-| Dart | Programming language |
-| Firebase Authentication | User login/signup |
-| Cloud Firestore | Real-time database |
-| Firebase Storage | Data storage |
-| Charts Package | Progress visualization |
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.

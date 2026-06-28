@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "451536688359",
+    "project_id": "tracker-a3b81",
+    "storage_bucket": "tracker-a3b81.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:451536688359:android:1fd35ed792f273f2413e42",
+        "android_client_info": {
+          "package_name": "com.zahn.habit_tracker_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0QOC9iJLhoidt65PIiOwo3pi9zvrUJhE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
